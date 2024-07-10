@@ -1,0 +1,5 @@
+/your_project_directory
+├── app.py
+├── templates
+│   └── index.html, recommend.html
+└── other_files_and_directories
